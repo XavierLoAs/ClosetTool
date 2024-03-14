@@ -1,0 +1,725 @@
+{
+	"comments":
+[
+	{
+		"NOTA":"No es recomendable meter comentarios, pero lo haré igualmente",
+		"name":"nombre descriptivo de la prenda, no pueden haber repetidos del mismo tipo de prenda",
+		"selected":"'true' si quieres que aparezca seleccionada al cargar, 'false' en caso contrario",
+		"image_src":"PATH a la imagen relacionada a la prenda de ropa dentro de la carpeta 'images', no se debe incluir 'images'",
+		"type":"tipo de prenda. Valores validos: 'camisas','sudaderas','pantalones','zapatos','otros'. Cualquier valor distinto se clasifica como 'otros'",
+		"dependencias":"atributo de outfits, prendas de las que depende o necesita",
+		"colors":"colores principales que incluye el outfit"
+	}
+],
+"ropa":
+[{
+	"name": "camisa__0000_sueter_marron_primark",
+	"selected":"true",
+	"image_src":"camisas/camisa__0000_sueter_marron_primark.png",
+	"type":"camisas",
+	"colors":"marron"
+},
+{
+	"name": "camisa__0001_camisa_blanca_formal",
+	"selected":"true",
+	"image_src":"camisas/camisa__0001_camisa_blanca_formal.png",
+	"type":"camisas",
+	"colors":"blanco"
+},
+{
+	"name": "camisa__0002_cuello_alto_negro",
+	"selected":"true",
+	"image_src":"camisas/camisa__0002_cuello_alto_negro.png",
+	"type":"camisas",
+	"colors":"negro"
+},
+{
+	"name": "camisa__0003_jersey_rayas_gris_azul",
+	"selected":"true",
+	"image_src":"camisas/camisa__0003_jersey_rayas_gris_azul.png",
+	"type":"camisas",
+	"colors":"azul gris"
+},
+{
+	"name": "camisa__004_verde_mullido_lana_tal_vez",
+	"selected":"true",
+	"image_src":"camisas/camisa__004_verde_mullido_lana_tal_vez.png",
+	"type":"camisas",
+	"colors":"verde"
+},
+{
+	"name": "camisa__0005_gris_claro_medio_formal",
+	"selected":"true",
+	"image_src":"camisas/camisa__0005_gris_claro_medio_formal.png",
+	"type":"camisas",
+	"colors":"gris"
+},
+{
+	"name": "camisa__0006_gris_negro_blanco_estampado",
+	"selected":"true",
+	"image_src":"camisas/camisa__0006_gris_negro_blanco_estampado.png",
+	"type":"camisas",
+	"colors":"gris negro blanco"
+},
+{
+	"name": "camisa__0007_granate_blanco_azul_estampado",
+	"selected":"true",
+	"image_src":"camisas/camisa__0007_granate_blanco_azul_estampado.png",
+	"type":"camisas",
+	"colors":"rojo blanco azul"
+},
+{
+	"name": "camisa__0008_blanco_gris_claro_calavera",
+	"selected":"true",
+	"image_src":"camisas/camisa__0008_blanco_gris_claro_calavera.png",
+	"type":"camisas",
+	"colors":"gris negro blanco rojo"
+},
+{
+	"name": "camisa__0009_blanco_azul_oscuro_estampado_zapatillas",
+	"selected":"true",
+	"image_src":"camisas/camisa__0009_blanco_azul_oscuro_estampado_zapatillas.png",
+	"type":"camisas",
+	"colors":"blanco azul"
+},
+{
+	"name": "camisa__0010_granate_formal",
+	"selected":"true",
+	"image_src":"camisas/camisa__0010_granate_formal.png",
+	"type":"camisas",
+	"colors":"rojo"
+},
+{
+	"name": "camisa__0011_azul_oscuro_estampado_skate",
+	"selected":"true",
+	"image_src":"camisas/camisa__0011_azul_oscuro_estampado_skate.png",
+	"type":"camisas",
+	"colors":"azul negro rojo blanco"
+},
+{
+	"name": "camisa__0012_gris_estampado_oso",
+	"selected":"true",
+	"image_src":"camisas/camisa__0012_gris_estampado_oso.png",
+	"type":"camisas",
+	"colors":"gris negro"
+},
+{
+	"name": "camisa__0013_azul_estampado_north_dakota",
+	"selected":"true",
+	"image_src":"camisas/camisa__0013_azul_estampado_north_dakota.png",
+	"type":"camisas",
+	"colors":"azul negro"
+},
+{
+	"name": "camisa__0014_gris_claro_estampado_carreras",
+	"selected":"true",
+	"image_src":"camisas/camisa__0014_gris_claro_estampado_carreras.png",
+	"type":"camisas",
+	"colors":"gris negro naranja"
+},
+{
+	"name": "camisa__0015_negro_verde_fosforito",
+	"selected":"true",
+	"image_src":"camisas/camisa__0015_negro_verde_fosforito.png",
+	"type":"camisas",
+	"colors":"azul negro verde blanco"
+},
+{
+	"name": "camisa__0016_granate_estampado_athletic",
+	"selected":"true",
+	"image_src":"camisas/camisa__0016_granate_estampado_athletic.png",
+	"type":"camisas",
+	"colors":"rojo blanco"
+},
+{
+	"name": "sudaderas__0000_sueter_morado_dinosaurio_cuqui",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0000_sueter_morado_dinosaurio_cuqui.png",
+	"type":"sudaderas",
+	"colors":"morado verde azul rojo amarillo negro"
+},
+{
+	"name": "sudaderas__0001_verde_liso",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0001_verde_liso.png",
+	"type":"sudaderas",
+	"colors":"verde"
+},
+{
+	"name": "sudaderas__0002_rojo_hollister",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0002_rojo_hollister.png",
+	"type":"sudaderas",
+	"colors":"rojo negro"
+},
+{
+	"name": "sudaderas__0003_pistacho_jack_jones",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0003_pistacho_jack_jones.png",
+	"type":"sudaderas",
+	"colors":"verde negro naranja"
+},
+{
+	"name": "sudaderas__0004_negra_jack_jones",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0004_negra_jack_jones.png",
+	"type":"sudaderas",
+	"colors":"negro blanco marron"
+},
+{
+	"name": "sudaderas__0005_negra_adidas_estampado",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0005_negra_adidas_estampado.png",
+	"type":"sudaderas",
+	"colors":"negro gris"
+},
+{
+	"name": "sudaderas__0006_negra_amarillo_blanco",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0006_negra_amarillo_blanco.png",
+	"type":"sudaderas",
+	"colors":"negro blanco amarillo"
+},
+{
+	"name": "sudaderas__0007_gris_oscuro_rayas_blanco_rojo",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0007_gris_oscuro_rayas_blanco_rojo.png",
+	"type":"sudaderas",
+	"colors":"blanco rojo gris negro"
+},
+{
+	"name": "sudaderas__0008_sueter_pistacho_primark",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0008_sueter_pistacho_primark.png",
+	"type":"sudaderas",
+	"colors":"verde negro blanco"
+},
+{
+	"name": "sudaderas__0009_gris_claro_estampado_militar",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0009_gris_claro_estampado_militar.png",
+	"type":"sudaderas",
+	"colors":"gris verde"
+},
+{
+	"name": "sudaderas__0010_blanco_negro_skate_estampado",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0010_blanco_negro_skate_estampado.png",
+	"type":"sudaderas",
+	"colors":"blanco negro"
+},
+{
+	"name": "sudaderas__0011_negro_tigre_tokyo",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0011_negro_tigre_tokyo.png",
+	"type":"sudaderas",
+	"colors":"azul negro blanco"
+},
+{
+	"name": "sudaderas__0012_sueter_blanco_rojo_vintage",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0012_sueter_blanco_rojo_vintage.png",
+	"type":"sudaderas",
+	"colors":"blanco negro rojo"
+},
+{
+	"name": "sudaderas__0013_negro_gris_claro_blanco",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0013_negro_gris_claro_blanco.png",
+	"type":"sudaderas",
+	"colors":"blanco gris negro"
+},
+{
+	"name": "sudaderas__0014_jersey_azul_skate",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0014_jersey_azul_skate.png",
+	"type":"sudaderas",
+	"colors":"azul negro blanco"
+},
+{
+	"name": "sudaderas__0015_swag_azul_oscuro_estampado",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0015_swag_azul_oscuro_estampado.png",
+	"type":"sudaderas",
+	"colors":"azul blanco"
+},
+{
+	"name": "sudaderas__0016_azul_agujeros_ojos",
+	"selected":"true",
+	"image_src":"sudaderas/sudaderas__0016_azul_agujeros_ojos.png",
+	"type":"sudaderas",
+	"colors":"azul blanco"
+},
+{
+	"name": "chaquetas__0000_chaqueta_zorro_marron",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0000_chaqueta_zorro_marron.png",
+	"type":"chaquetas",
+	"colors":"blanco marron"
+},
+{
+	"name": "chaquetas__0001_country_blanco_negro_botones",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0001_country_blanco_negro_botones.png",
+	"type":"chaquetas",
+	"colors":"negro blanco"
+},
+{
+	"name": "chaquetas__0002_negro_blanco_dithering_amarillo",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0002_negro_blanco_dithering_amarillo.png",
+	"type":"chaquetas",
+	"colors":"amarillo negro blanco"
+},
+{
+	"name": "chaquetas__0003_marron_blanco_leñador",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0003_marron_blanco_leñador.png",
+	"type":"chaquetas",
+	"colors":"marron blanco"
+},
+{
+	"name": "chaquetas__0004_sobrecamisa_blanca_jack_jones",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0004_sobrecamisa_blanca_jack_jones.png",
+	"type":"chaquetas",
+	"colors":"blanco"
+},
+{
+	"name": "chaquetas__0005_skate_rules_blanco_negro",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0005_skate_rules_blanco_negro.png",
+	"type":"chaquetas",
+	"colors":"blanco negro"
+},
+{
+	"name": "chaquetas__0006_gris_capucha_verde_degradado",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0006_gris_capucha_verde_degradado.png",
+	"type":"chaquetas",
+	"colors":"gris verde negro"
+},
+{
+	"name": "chaquetas__0007_gris_dithering_fina",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0007_gris_dithering_fina.png",
+	"type":"chaquetas",
+	"colors":"gris negro"
+},
+{
+	"name": "chaquetas__0008_negra_gordita",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0008_negra_gordita.png",
+	"type":"chaquetas",
+	"colors":"negro"
+},
+{
+	"name": "chaquetas__0009_casa_verde_naranja",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0009_casa_verde_naranja.png",
+	"type":"chaquetas",
+	"colors":"verde naranja"
+},
+{
+	"name": "chaquetas__0010_denim_gris_lefties",
+	"selected":"true",
+	"image_src":"chaquetas/chaquetas__0010_denim_gris_lefties.png",
+	"type":"chaquetas",
+	"colors":"azul gris"
+},
+{
+	"name": "pantalones__0000s_0000_chinos_negros",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0000_chinos_negros.png",
+	"type":"pantalones",
+	"colors":"negro"
+},
+{
+	"name": "pantalones__0000s_0001_anchos_blancos",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0001_anchos_blancos.png",
+	"type":"pantalones",
+	"colors":"blanco"
+},
+{
+	"name": "pantalones__0000s_0002_constructor_beige",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0002_constructor_beige.png",
+	"type":"pantalones",
+	"colors":"blanco"
+},
+{
+	"name": "pantalones__0000s_0003_tejano_falso_negro",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0003_tejano_falso_negro.png",
+	"type":"pantalones",
+	"colors":"negro"
+},
+{
+	"name": "pantalones__0000s_0004_tejano_negro",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0004_tejano_negro.png",
+	"type":"pantalones",
+	"colors":"negro"
+},
+{
+	"name": "pantalones__0000s_0005_malla_espacial",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0005_malla_espacial.png",
+	"type":"pantalones",
+	"colors":"negro blanco"
+},
+{
+	"name": "pantalones__0000s_0006_tejano_azul_1",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0006_tejano_azul_1.png",
+	"type":"pantalones",
+	"colors":"azul"
+},
+{
+	"name": "pantalones__0000s_0007_tejano_azul_slim",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0007_tejano_azul_slim.png",
+	"type":"pantalones",
+	"colors":"azul"
+},
+{
+	"name": "pantalones__0000s_0008_tejano_falso_azul",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0008_tejano_falso_azul.png",
+	"type":"pantalones",
+	"colors":"azul"
+},
+{
+	"name": "pantalones__0000s_0009_patron_flechas_azul",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0009_patron_flechas_azul.png",
+	"type":"pantalones",
+	"colors":"azul"
+},
+{
+	"name": "pantalones__0000s_0010_tejano_azul_gastado",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0010_tejano_azul_gastado.png",
+	"type":"pantalones",
+	"colors":"azul"
+},
+{
+	"name": "pantalones__0000s_0011_plateado_negro",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0011_plateado_negro.png",
+	"type":"pantalones",
+	"colors":"gris negro"
+},
+{
+	"name": "pantalones__0000s_0012_chandal_azul_oscuro",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0012_chandal_azul_oscuro.png",
+	"type":"pantalones",
+	"colors":"azul"
+},
+{
+	"name": "pantalones__0000s_0013_chandal_gris_oscuro_raya_azul_blanca",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0013_chandal_gris_oscuro_raya_azul_blanca.png",
+	"type":"pantalones",
+	"colors":"gris azul blanco"
+},
+{
+	"name": "pantalones__0000s_0014_chandal_blanco_negro",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0014_chandal_blanco_negro.png",
+	"type":"pantalones",
+	"colors":"blanco negro"
+},
+{
+	"name": "pantalones__0000s_0015_chandal_negro",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0015_chandal_negro.png",
+	"type":"pantalones",
+	"colors":"negro"
+},
+{
+	"name": "pantalones__0000s_0016_chandal_negro_raya_gris",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0016_chandal_negro_raya_gris.png",
+	"type":"pantalones",
+	"colors":"negro gris"
+},
+{
+	"name": "pantalones__0000s_0017_pana_mostaza",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0017_pana_mostaza.png",
+	"type":"pantalones",
+	"colors":"amarillo"
+},
+{
+	"name": "pantalones__0000s_0018_chandal_tejano_gris_oscuro",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0018_chandal_tejano_gris_oscuro.png",
+	"type":"pantalones",
+	"colors":"negro gris"
+},
+{
+	"name": "pantalones__0000s_0019_negro_raya_blanca",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0019_negro_raya_blanca.png",
+	"type":"pantalones",
+	"colors":"negro blanco"
+},
+{
+	"name": "pantalones__0000s_0020_gris_claro_raya_negra_onda",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0020_gris_claro_raya_negra_onda.png",
+	"type":"pantalones",
+	"colors":"gris negro"
+},
+{
+	"name": "pantalones__0000s_0021_chandal_gris_oscuro_raya_blanca_roja",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0021_chandal_gris_oscuro_raya_blanca_roja.png",
+	"type":"pantalones",
+	"colors":"gris rojo blanco"
+},
+{
+	"name": "pantalones__0000s_0022_chandal_gris_claro_raya_blanca_roja",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0022_chandal_gris_claro_raya_blanca_roja.png",
+	"type":"pantalones",
+	"colors":"gris rojo blanco"
+},
+{
+	"name": "pantalones__0000s_0023_chandal_gris_raya_blanca",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0023_chandal_gris_raya_blanca.png",
+	"type":"pantalones",
+	"colors":"gris blanco"
+},
+{
+	"name": "pantalones__0000s_0024_chandal_gris_oscuro",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0024_chandal_gris_oscuro.png",
+	"type":"pantalones",
+	"colors":"gris"
+},
+{
+	"name": "pantalones__0000s_0025_malla_gris",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0025_malla_gris.png",
+	"type":"pantalones",
+	"colors":"gris"
+},
+{
+	"name": "pantalones__0000s_0026_chandal_plateado_grueso",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0026_chandal_plateado_grueso.png",
+	"type":"pantalones",
+	"colors":"gris"
+},
+{
+	"name": "pantalones__0000s_0027_chandal_plateado_fino",
+	"selected":"true",
+	"image_src":"pantalones/pantalones__0000s_0027_chandal_plateado_fino.png",
+	"type":"pantalones",
+	"colors":"gris"
+},
+{
+	"name": "zapatos__0000_sketcher_bobs_negras",
+	"selected":"true",
+	"image_src":"zapatos/zapatos__0000_sketcher_bobs_negras.png",
+	"type":"zapatos",
+	"colors":"negro"
+},
+{
+	"name": "zapatos__0001_vans_old_skool_negro_blanco",
+	"selected":"true",
+	"image_src":"zapatos/zapatos__0001_vans_old_skool_negro_blanco.png",
+	"type":"zapatos",
+	"colors":"negro blanco"
+},
+{
+	"name": "zapatos__0002_azul_oscuro_formal",
+	"selected":"true",
+	"image_src":"zapatos/zapatos__0002_azul_oscuro_formal.png",
+	"type":"zapatos",
+	"colors":"azul marron amarillo blanco"
+},
+{
+	"name": "zapatos__0003_transpirable_negro_naranja_blanco",
+	"selected":"true",
+	"image_src":"zapatos/zapatos__0003_transpirable_negro_naranja_blanco.png",
+	"type":"zapatos",
+	"colors":"blanco gris negro naranja"
+},
+{
+	"name": "zapatos__0004_sketcher_azul_negro_blanco",
+	"selected":"true",
+	"image_src":"zapatos/zapatos__0004_sketcher_azul_negro_blanco.png",
+	"type":"zapatos",
+	"colors":"blanco negro azul"
+},
+{
+	"name": "otros__0000_cinturon_negro_metalico",
+	"selected":"true",
+	"image_src":"otros/otros__0000_cinturon_negro_metalico.png",
+	"type":"otros",
+	"colors":"negro gris"
+},
+{
+	"name": "otros__0001_cinturon_negro_total",
+	"selected":"true",
+	"image_src":"otros/otros__0001_cinturon_negro_total.png",
+	"type":"otros",
+	"colors":"negro"
+},
+{
+	"name": "otros__0002_cinturon_cuero_falso_negro",
+	"selected":"true",
+	"image_src":"otros/otros__0002_cinturon_cuero_falso_negro.png",
+	"type":"otros",
+	"colors":"negro"
+}
+
+],
+"outfit":
+[{
+	"name": "outfits__0000_dinosaurio_chinos_negros_sketchers_cadena",
+	"dependencias":"sudaderas__0000_sueter_morado_dinosaurio_cuqui pantalones__0000s_0000_chinos_negros zapatos__0000_sketcher_bobs_negras",
+	"image_src":"outfits/outfits__0000_dinosaurio_chinos_negros_sketchers_cadena.png",
+	"colors":"morado negro"
+},
+{
+	"name": "outfits__0001_dinosaurio_anchos_blancos_opalo_vans",
+	"dependencias":"sudaderas__0000_sueter_morado_dinosaurio_cuqui pantalones__0000s_0001_anchos_blancos zapatos__0001_vans_old_skool_negro_blanco chaquetas__0004_sobrecamisa_blanca_jack_jones",
+	"image_src":"outfits/outfits__0001_dinosaurio_anchos_blancos_opalo_vans.png",
+	"colors":"morado blanco"
+},
+{
+	"name": "outfits__0002_cuello_alto_negro_anchos_blanco_opalo_vans",
+	"dependencias":"camisa__0002_cuello_alto_negro pantalones__0000s_0001_anchos_blancos zapatos__0001_vans_old_skool_negro_blanco",
+	"image_src":"outfits/outfits__0002_cuello_alto_negro_anchos_blanco_opalo_vans.png",
+	"colors":"negro blanco"
+},
+{
+	"name": "outfits__0003_cuello_alto_negro_estrellado_piedra_arenosa_sketchers",
+	"dependencias":"camisa__0002_cuello_alto_negro pantalones__0000s_0005_malla_espacial zapatos__0000_sketcher_bobs_negras",
+	"image_src":"outfits/outfits__0003_cuello_alto_negro_estrellado_piedra_arenosa_sketchers.png",
+	"colors":"negro"
+},
+{
+	"name": "outfits__0004_jersey_marron_constructores_formal_leñador",
+	"dependencias":"camisa__0000_sueter_marron_primark pantalones__0000s_0002_constructor_beige zapatos__0002_azul_oscuro_formal chaquetas__0003_marron_blanco_leñador",
+	"image_src":"outfits/outfits__0004_jersey_marron_constructores_formal_leñador.png",
+	"colors":"marron blanco"
+},
+{
+	"name": "outfits__0005_jersey_marron_constructores_formal_chaqueta_zorro",
+	"dependencias":"camisa__0000_sueter_marron_primark pantalones__0000s_0002_constructor_beige zapatos__0002_azul_oscuro_formal chaquetas__0000_chaqueta_zorro_marron",
+	"image_src":"outfits/outfits__0005_jersey_marron_constructores_formal_chaqueta_zorro.png",
+	"colors":"marron blanco"
+},
+{
+	"name": "outfits__0006_denim_on_denim_gris",
+	"dependencias":"camisa__0005_gris_claro_medio_formal chaquetas__0010_denim_gris_lefties pantalones__0000s_0010_tejano_azul_gastado",
+	"image_src":"outfits/outfits__0006_denim_on_denim_gris.png",
+	"colors":"gris azul"
+},
+{
+	"name": "outfits__0007_chandal_negro_blanco_gris",
+	"dependencias":"sudaderas__0013_negro_gris_claro_blanco pantalones__0000s_0014_chandal_blanco_negro",
+	"image_src":"outfits/outfits__0007_chandal_negro_blanco_gris.png",
+	"colors":"negro gris blanco"
+},
+{
+	"name": "outfits__0008_tejanos_negros_camiseta_blanca_opalo_vans",
+	"dependencias":"pantalones__0000s_0004_tejano_negro camisa__0001_camisa_blanca_formal zapatos__0001_vans_old_skool_negro_blanco",
+	"image_src":"outfits/outfits__0008_tejanos_negros_camiseta_blanca_opalo_vans.png",
+	"colors":"blanco negro"
+},
+{
+	"name": "outfits__0009_vintage_blanco_rojo_chandal_transpirable",
+	"dependencias":"sudaderas__0012_sueter_blanco_rojo_vintage zapatos__0003_transpirable_negro_naranja_blanco pantalones__0000s_0013_chandal_gris_oscuro_raya_azul_blanca",
+	"image_src":"outfits/outfits__0009_vintage_blanco_rojo_chandal_transpirable.png",
+	"colors":"rojo blanco gris negro"
+},
+{
+	"name": "outfits__0010_swag_azul_oscuro_flechas_sketchers_azul",
+	"dependencias":"sudaderas__0015_swag_azul_oscuro_estampado pantalones__0000s_0009_patron_flechas_azul zapatos__0004_sketcher_azul_negro_blanco",
+	"image_src":"outfits/outfits__0010_swag_azul_oscuro_flechas_sketchers_azul.png",
+	"colors":"azul blanco"
+},
+{
+	"name": "outfits__0011_skate_azul_chandal_gris_raya_negra_onda_sketchers_azul",
+	"dependencias":"pantalones__0000s_0020_gris_claro_raya_negra_onda sudaderas__0014_jersey_azul_skate zapatos__0004_sketcher_azul_negro_blanco",
+	"image_src":"outfits/outfits__0011_skate_azul_chandal_gris_raya_negra_onda_sketchers_azul.png",
+	"colors":"azul gris"
+},
+{
+	"name": "outfits__0012_amarillo_negro_blanco_pantalones_mostaza_zapatos_formal",
+	"dependencias":"sudaderas__0006_negra_amarillo_blanco pantalones__0000s_0017_pana_mostaza zapatos__0002_azul_oscuro_formal",
+	"image_src":"outfits/outfits__0012_amarillo_negro_blanco_pantalones_mostaza_zapatos_formal.png",
+	"colors":"amarillo blanco negro"
+},
+{
+	"name": "outfits__0013_chandal_gris_rayas_ositos_sketchers_blob_negras",
+	"dependencias":"pantalones__0000s_0022_chandal_gris_claro_raya_blanca_roja camisa__0008_blanco_gris_claro_calavera zapatos__0000_sketcher_bobs_negras",
+	"image_src":"outfits/outfits__0013_chandal_gris_rayas_ositos_sketchers_blob_negras.png",
+	"colors":"gris negro blanco"
+},
+{
+	"name": "outfits__0014_tejano_azul_deluxe_jersey_gris_rayas_azul_sketchers_azul",
+	"dependencias":"zapatos__0004_sketcher_azul_negro_blanco camisa__0003_jersey_rayas_gris_azul pantalones__0000s_0006_tejano_azul_1",
+	"image_src":"outfits/outfits__0014_tejano_azul_deluxe_jersey_gris_rayas_azul_sketchers_azul.png",
+	"colors":"gris azul"
+},
+{
+	"name": "outfits__0015_malla_plateada_jersey_gris_rayas_azul_sketchers_blob_negras",
+	"dependencias":"zapatos__0000_sketcher_bobs_negras camisa__0003_jersey_rayas_gris_azul pantalones__0000s_0011_plateado_negro",
+	"image_src":"outfits/outfits__0015_malla_plateada_jersey_gris_rayas_azul_sketchers_blob_negras.png",
+	"colors":"gris azul"
+},
+{
+	"name": "outfits__0016_malla_plateada_jack_jones_verde_negra_opalo_trans_sketchers_blob_negra",
+	"dependencias":"zapatos__0000_sketcher_bobs_negras pantalones__0000s_0011_plateado_negro sudaderas__0003_pistacho_jack_jones",
+	"image_src":"outfits/outfits__0016_malla_plateada_jack_jones_verde_negra_opalo_trans_sketchers_blob_negra.png",
+	"colors":"verde negro gris"
+},
+{
+	"name": "outfits__0017_chandal_gris_oscuro_dithering_rayas_blanco_roja_transpirable",
+	"dependencias":"zapatos__0003_transpirable_negro_naranja_blanco sudaderas__0007_gris_oscuro_rayas_blanco_rojo pantalones__0000s_0021_chandal_gris_oscuro_raya_blanca_roja",
+	"image_src":"outfits/outfits__0017_chandal_gris_oscuro_dithering_rayas_blanco_roja_transpirable.png",
+	"colors":"gris blanco rojo"
+},
+{
+	"name": "outfits__0018_chinos_negros_sudadera_verde_plano_sketchers_blob_negras_malaquita",
+	"dependencias":"zapatos__0000_sketcher_bobs_negras pantalones__0000s_0000_chinos_negros sudaderas__0001_verde_liso",
+	"image_src":"outfits/outfits__0018_chinos_negros_sudadera_verde_plano_sketchers_blob_negras_malaquita.png",
+	"colors":"verde negro"
+},
+{
+	"name": "outfits__0019_sudadera_hollister_roja_chinos_negros_sketchers_blob_negras",
+	"dependencias":"zapatos__0000_sketcher_bobs_negras pantalones__0000s_0000_chinos_negros sudaderas__0002_rojo_hollister",
+	"image_src":"outfits/outfits__0019_sudadera_hollister_roja_chinos_negros_sketchers_blob_negras.png",
+	"colors":"rojo negro"
+},
+{
+	"name": "outfits__0020_pantalones_negro_blanco_dithering_camisa_granate_sketchers_blob_negras",
+	"dependencias":"zapatos__0000_sketcher_bobs_negras camisa__0010_granate_formal",
+	"image_src":"outfits/outfits__0020_pantalones_negro_blanco_dithering_camisa_granate_sketchers_blob_negras.png",
+	"colors":"rojo negro gris"
+},
+{
+	"name": "outfits__0021_sudadera_skate_pantalones_negros_rayas_blancas_sketchers_blob_negras",
+	"dependencias":"zapatos__0000_sketcher_bobs_negras sudaderas__0010_blanco_negro_skate_estampado pantalones__0000s_0019_negro_raya_blanca",
+	"image_src":"outfits/outfits__0021_sudadera_skate_pantalones_negros_rayas_blancas_sketchers_blob_negras.png",
+	"colors":"negro blanco"
+},
+{
+	"name": "outfits__0022_jersey_verde_lana_tejanos_falsos_negros_sketchers_blob_negras",
+	"dependencias":"zapatos__0003_transpirable_negro_naranja_blanco camisa__004_verde_mullido_lana_tal_vez pantalones__0000s_0018_chandal_tejano_gris_oscuro",
+	"image_src":"outfits/outfits__0022_jersey_verde_lana_tejanos_falsos_negros_sketchers_blob_negras.png",
+	"colors":"verde negro gris"
+}
+
+]
+}
