@@ -19,7 +19,8 @@ def image_colors_from_path(image_path):
     cropped_bottom = int((hsize*3)/4)
     img = img.crop(cropped_left,cropped_top,cropped_right,cropped_bottom)
     new_width = int(base_width/2)
-    new_height = int(hsize/2)"""
+    new_height = int(hsize/2)
+    COMENTARIO"""
     img = img.resize((base_width, hsize), Image.Resampling.LANCZOS)
     
     cropped_left = int(base_width/4)
